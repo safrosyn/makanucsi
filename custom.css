@@ -1,0 +1,87 @@
+body{font-family: 'Montserrat', sans-serif;}
+
+h1{font-weight: 700;
+  margin-left: 15px;
+  margin-bottom: 20px;}
+
+h6{text-align:justify; padding-left: 18em; padding-right: 18em;padding-bottom: 2em;}
+
+.nav-item{
+padding-left: 3em;
+padding-right: 4em;}
+
+.nav-link-here { padding: 2rem 2rem;
+  text-align: left;
+  width: 130%;
+}
+
+
+.nav-pills .nav-link-here.active,
+.nav-pills .show > .nav-link-here {
+    color: white;
+    background-color: #848476;
+
+  }
+
+.nav-pills .nav-link-here {
+background-color: #c6c6b2;}
+
+.card-footer
+{ background-color: #232b2b;
+padding-left: 4em;
+bottom: 0;}
+
+.menu-wrapper{
+  width:70%;
+  box-sizing:border-box;
+  display:flex;
+  flex-flow:column nowrap;
+  align-items:center;
+  justify-content:center;
+
+  padding-top: -22em;
+  margin-bottom: 2em;
+}
+
+  .menu-category{
+    padding:1em 2em;
+    width:150%;
+    background:#dcdcc6;
+    text-align:left;
+    }
+
+h2{color:#00A5B4;
+   margin:0;}
+
+.menu-item{
+      padding:1em;
+      box-sizing:border-box;
+      transition:all .3s;
+      &:hover{
+        background:#f6f6f6;
+        border-radius:.5em;}
+      }
+
+.item-name{
+font-weight:600;
+margin:0;
+position:relative;
+top: 1.6em;
+padding-right:10em;}
+
+.price-name-wrapper{
+  border-bottom: 4px dotted #B5ABAB;
+  position: relative;
+  float: left;
+  line-height: 1.5em;
+  margin: -.9em 0 0 0;
+  width: 100%;
+  text-align: left; }
+
+.item-price{
+display:inline-block;
+
+position:relative;
+top:.2em;
+left:1px;
+float:right;}
