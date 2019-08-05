@@ -20,10 +20,7 @@
 <div class="container" style="padding-top:3em; padding-bottom:3em; padding-left:8em; ">
 <center><h1>About Us</h1>
   <p align="justify" style="margin-left:300px; margin-right:300px; background: yellow;">
-    Hi, I am Rachel Revathi Laie  the sole creator of this website. The purpose of this website is to investigate the relationship
-    between FFM/Big5 personality traits and food taste preferences through a website! This website is also for making the life of students
-    and staff alike convenient as this would enable them to be informed on what food outlets are available and which one serve which food food_items
-    and where they are located as well. Thank you!
+    Thank you!
 
 </center>
 
